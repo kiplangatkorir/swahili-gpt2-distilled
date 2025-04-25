@@ -11,8 +11,6 @@ By distilling a GPT-2 model, we seek to:
 - Enable Swahili NLP applications in resource-constrained environments (e.g., mobile, embedded systems).
 - Create a foundational model that can be expanded to other African languages.
 
----
-
 ## Key Features
 
 - **Distilled GPT-2 Model**: A compact version of GPT-2 optimized for efficiency while retaining the core language generation capabilities.
