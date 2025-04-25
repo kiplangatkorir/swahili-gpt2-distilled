@@ -20,8 +20,6 @@ By distilling a GPT-2 model, we seek to:
 - **Resource-Efficient**: The model is optimized for deployment in environments with limited computational resources (e.g., mobile devices).
 - **Open Access**: The model and code are available for free, encouraging collaboration and expansion to other low-resource African languages.
 
----
-
 ## Table of Contents
 
 1. [Installation](#installation)
