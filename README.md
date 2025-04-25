@@ -75,6 +75,8 @@ Make sure to store your dataset in the `data/` directory of the repository for t
 
 ### 1. Training Process
 
+![W B Chart 4_25_2025, 6_12_13 PM](https://github.com/user-attachments/assets/48a5a40e-d3af-4803-ab70-55779fd1ee26)
+
 The training is done using the **Hugging Face Transformers** library. The key steps include:
 
 - **Model Architecture**: The original GPT-2 small model is distilled to reduce its size, which includes modifications such as reducing the number of layers and attention heads.
