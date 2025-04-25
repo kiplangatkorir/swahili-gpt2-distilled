@@ -71,8 +71,6 @@ swahili-gpt2-distilled/
 
 Make sure to store your dataset in the `data/` directory of the repository for training.
 
----
-
 ## Training
 
 ### 1. Training Process
