@@ -30,8 +30,6 @@ By distilling a GPT-2 model, we seek to:
 8. [Acknowledgements](#acknowledgements)
 9. [References](#references)
 
----
-
 ## Installation
 
 ### 1. Clone the Repository
