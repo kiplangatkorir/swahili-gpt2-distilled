@@ -97,8 +97,6 @@ notebooks/distillation-colab.ipynb
 
 This notebook can be opened directly in Google Colab for seamless GPU access.
 
----
-
 ## Evaluation
 
 ### 1. Evaluation Metrics
@@ -115,8 +113,6 @@ python evaluate.py --model_path ./models/distilled-gpt2-swahili
 ```
 
 This will output the perplexity and show some sample generated text.
-
----
 
 ## Usage
 
@@ -143,8 +139,6 @@ print(generated_text)
 
 This will generate text in Swahili starting from the given prompt, `"Habari ya leo"` (Good morning).
 
----
-
 ## Contributing
 
 We welcome contributions to improve this project! If you have suggestions, bug fixes, or want to contribute code, feel free to open an issue or submit a pull request.
@@ -157,21 +151,9 @@ Steps to contribute:
 5. Push to the branch: `git push origin feature-branch`
 6. Open a pull request.
 
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgements
-
-- **Hugging Face** for providing the `transformers` library.
-- **Google Colab** for providing free access to GPU resources.
-- **MsingiAI** for leading AI research in Swahili and other African languages.
-
----
 
 ## References
 
