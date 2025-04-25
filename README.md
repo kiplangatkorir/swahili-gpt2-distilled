@@ -47,8 +47,6 @@ You can install the required dependencies using `pip`:
 pip install -r requirements.txt
 ```
 
----
-
 ## Data Preparation
 
 ### 1. Dataset
