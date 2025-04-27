@@ -35,7 +35,7 @@ By distilling a GPT-2 model, we seek to:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/swahili-gpt2-distilled.git
+git clone https://github.com/kiplangatkorir/swahili-gpt2-distilled.git
 cd swahili-gpt2-distilled
 ```
 
