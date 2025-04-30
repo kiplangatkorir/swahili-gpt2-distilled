@@ -1,9 +1,9 @@
 # Swahili GPT-2 Distilled
-
+ 
 This repository hosts a distilled version of the GPT-2 model fine-tuned on a custom Swahili language corpus. The project aims to provide an efficient, smaller language model capable of generating Swahili text and performing other natural language processing (NLP) tasks. This model can be used in various applications including chatbots, content generation, and language modeling, especially in resource-constrained environments.
 
 ## Project Motivation
-
+ 
 Swahili is spoken by over 100 million people, predominantly in East Africa. Despite its wide usage, Swahili has been underrepresented in state-of-the-art AI models, particularly in generative language modeling. The aim of this project is to bridge this gap by training a compact, efficient model that maintains the richness of the Swahili language while being computationally accessible.
 
 By distilling a GPT-2 model, we seek to:
@@ -11,16 +11,12 @@ By distilling a GPT-2 model, we seek to:
 - Enable Swahili NLP applications in resource-constrained environments (e.g., mobile, embedded systems).
 - Create a foundational model that can be expanded to other African languages.
 
----
-
 ## Key Features
 
 - **Distilled GPT-2 Model**: A compact version of GPT-2 optimized for efficiency while retaining the core language generation capabilities.
 - **Swahili-Centric Training**: Fine-tuned specifically on Swahili text from various domains (news, blogs, educational material).
 - **Resource-Efficient**: The model is optimized for deployment in environments with limited computational resources (e.g., mobile devices).
 - **Open Access**: The model and code are available for free, encouraging collaboration and expansion to other low-resource African languages.
-
----
 
 ## Table of Contents
 
@@ -34,14 +30,12 @@ By distilling a GPT-2 model, we seek to:
 8. [Acknowledgements](#acknowledgements)
 9. [References](#references)
 
----
-
 ## Installation
 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/swahili-gpt2-distilled.git
+git clone https://github.com/kiplangatkorir/swahili-gpt2-distilled.git
 cd swahili-gpt2-distilled
 ```
 
@@ -52,8 +46,6 @@ You can install the required dependencies using `pip`:
 ```bash
 pip install -r requirements.txt
 ```
-
----
 
 ## Data Preparation
 
@@ -79,11 +71,11 @@ swahili-gpt2-distilled/
 
 Make sure to store your dataset in the `data/` directory of the repository for training.
 
----
-
 ## Training
 
 ### 1. Training Process
+
+![W B Chart 4_25_2025, 6_12_13 PM](https://github.com/user-attachments/assets/48a5a40e-d3af-4803-ab70-55779fd1ee26)
 
 The training is done using the **Hugging Face Transformers** library. The key steps include:
 
@@ -107,8 +99,6 @@ notebooks/distillation-colab.ipynb
 
 This notebook can be opened directly in Google Colab for seamless GPU access.
 
----
-
 ## Evaluation
 
 ### 1. Evaluation Metrics
@@ -125,8 +115,6 @@ python evaluate.py --model_path ./models/distilled-gpt2-swahili
 ```
 
 This will output the perplexity and show some sample generated text.
-
----
 
 ## Usage
 
@@ -153,8 +141,6 @@ print(generated_text)
 
 This will generate text in Swahili starting from the given prompt, `"Habari ya leo"` (Good morning).
 
----
-
 ## Contributing
 
 We welcome contributions to improve this project! If you have suggestions, bug fixes, or want to contribute code, feel free to open an issue or submit a pull request.
@@ -167,21 +153,9 @@ Steps to contribute:
 5. Push to the branch: `git push origin feature-branch`
 6. Open a pull request.
 
----
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## Acknowledgements
-
-- **Hugging Face** for providing the `transformers` library.
-- **Google Colab** for providing free access to GPU resources.
-- **MsingiAI** for leading AI research in Swahili and other African languages.
-
----
 
 ## References
 
