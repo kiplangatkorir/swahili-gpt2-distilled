@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 ### 1. Dataset
 
-The model is fine-tuned on a custom Swahili dataset, which includes:
+The model is distilled on a custom Swahili dataset, which includes:
 
 - **train.txt**: Contains the training data (approx. 200K sentences)
 - **valid.txt**: Contains the validation data (approx. 20K sentences)
