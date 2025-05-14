@@ -16,7 +16,7 @@ By distilling a GPT-2 model, we seek to:
 - **Distilled GPT-2 Model**: A compact version of GPT-2 optimized for efficiency while retaining the core language generation capabilities.
 - **Swahili-Centric Training**: Fine-tuned specifically on Swahili text from various domains (news, blogs, educational material).
 - **Resource-Efficient**: The model is optimized for deployment in environments with limited computational resources (e.g., mobile devices).
-- **Open Access**: The model and code are available for free, encouraging collaboration and expansion to other low-resource African languages.
+- **Open Access**: The model and code are available for free, encouraging collaboration and expansion to other low-resource African languages.  
 
 ## Table of Contents
 
