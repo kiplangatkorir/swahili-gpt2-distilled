@@ -9,7 +9,7 @@ Swahili is spoken by over 100 million people, predominantly in East Africa. Desp
 By distilling a GPT-2 model, we seek to:
 - Provide a lighter alternative to large-scale models for Swahili.
 - Enable Swahili NLP applications in resource-constrained environments (e.g., mobile, embedded systems).
-- Create a foundational model that can be expanded to other African languages.
+- Create a foundational model that can be expanded to other African languages. 
 
 ## Key Features
 
