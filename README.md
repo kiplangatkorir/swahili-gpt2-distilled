@@ -1,6 +1,6 @@
 # Swahili GPT-2 Distilled  
   
-This repository hosts a distilled version of the GPT-2 model fine-tuned on a custom Swahili language corpus. The project aims to provide an efficient, smaller language model capable of generating Swahili text and performing other natural language processing (NLP) tasks. This model can be used in various applications including chatbots, content generation, and language modeling, especially in resource-constrained environments.
+This repository hosts a distilled version of the GPT-2 model fine-tuned on a custom Swahili language corpus. The project aims to provide an efficient, smaller language model capable of generating Swahili text and performing other natural language processing (NLP) tasks. This model can be used in various applications including chatbots, content generation, and language modeling, especially in resource-constrained environments. 
 
 ## Project Motivation
    
